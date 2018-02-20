@@ -4,8 +4,8 @@ Ryan Close Lab 5 github assignemnt
 lets get this shit changed!
 
 Partner:
-<WenleFeng>
+<Wenle+++Feng>
 Partner:
 <David_Blair>
 
-This might cause a merge conflict
+This might cause a merge conflict.
